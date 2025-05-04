@@ -5,7 +5,7 @@ A simple Python program that uses Haar Cascade classifiers to detect smiles from
 -Face detection using Haar cascades
 -Smile detection within detected face regions
 -Automatically clicks and saves an image when a smile is detected
--Saves the image as smile_detected.jpg
+-Saves the image as smile_detected.jpg 
 -Displays the captured image with the detected smile
 -Exits automatically after capturing a smile or when you press q
 
